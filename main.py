@@ -66,8 +66,7 @@ REPLY_TEMPLATE = """
 🔗 
 
 ╭━❰ 📚 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ 🎥 ❱━⊱
-┃        👉 🔴 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔴 👈
-┃        🔗 https://t.me/Prime_Movie_Watch_Dawnload/71
+┃      <a href='https://t.me/Prime_Movie_Watch_Dawnload/71'>👉 🔴 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔴 👈</a>
 ╰━━━━━━━━━━━━━━━━⊱
 
 💬 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ & ɢʀᴏᴜᴘꜱ
